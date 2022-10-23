@@ -10,5 +10,4 @@ nav_order: 1
 Like, a *really* picky eater. So picky that if you've had more than one conversation with me, chances are you've heard me say:
   >I'm the pickiest eater in the whole wide world!
 
-  
-  ]I'm so picky, **I wrote a synopsis blog post about picky eating.**
+  I'm so picky, **I wrote a synopsis blog post about picky eating.**
